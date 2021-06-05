@@ -1,0 +1,16 @@
+Jeśli chcesz przejść do jakiegoś folderu to pisz:
+cd "nazwa folderu"
+
+<<<<<<< HEAD
+Ludzie:
+Zbigniew
+Roman
+Agnieszka
+Barbara
+=======
+Miasta:
+Wrocław
+Phnom Penh
+Kuala Lumput
+Philadelphia
+>>>>>>> miasta
